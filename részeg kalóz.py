@@ -1,0 +1,23 @@
+import turtle
+ablak = turtle.Screen()
+adam = turtle.Turtle()
+adam.left(160)
+adam.forward(100)
+adam.right(-43)
+adam.forward(100)
+adam.left(270)
+adam.forward(100)
+adam.right(-97)
+adam.forward(100)
+adam.right(-43)
+adam.forward(100)
+adam.left(200)
+adam.forward(100)
+adam.right(-940)
+adam.forward(100)
+adam.left(17)
+adam.forward(100)
+adam.right(-86)
+adam.forward(100)
+
+ablak.mainloop
